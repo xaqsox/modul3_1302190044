@@ -1,0 +1,15 @@
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\bin\Debug\net6.0\modul3_1302190044.exe
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\bin\Debug\net6.0\modul3_1302190044.deps.json
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\bin\Debug\net6.0\modul3_1302190044.runtimeconfig.json
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\bin\Debug\net6.0\modul3_1302190044.dll
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\bin\Debug\net6.0\modul3_1302190044.pdb
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.csproj.AssemblyReference.cache
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.AssemblyInfoInputs.cache
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.AssemblyInfo.cs
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.csproj.CoreCompileInputs.cache
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.dll
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\refint\modul3_1302190044.dll
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.pdb
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\modul3_1302190044.genruntimeconfig.cache
+D:\Github\modul3_1302213117\modul3_1302190044\modul3_1302190044\obj\Debug\net6.0\ref\modul3_1302190044.dll
